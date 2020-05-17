@@ -9,158 +9,44 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/parametre/start.unity
     guid: 63d51e73fdda43849b7171a07e50e943
   - enabled: 1
-    path: Assets/eLiveHunt/scene/parametre/Type_Partie.unity
-    guid: 6abd143aa442bd247ac7f57232b70656
-  - enabled: 1
     path: Assets/eLiveHunt/scene/parametre/Type_Partie pirate.unity
     guid: 6119b95f6b70ff94b85c070e669eb293
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T11.unity
-    guid: cd58624224b08884aa03ccaaa7c7bd0a
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T12.unity
-    guid: 1d765c669235dba419d1cd0c176e7db6
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T13.unity
-    guid: c902f3c9815421241b8661f479db8c9c
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T21.unity
-    guid: 18ff241a64a893e4aa8caf122bb54585
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/parametre/Type_Partie temp.unity
-    guid: ed3f08ae387b5c34380724eaf5ec1fef
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T31.unity
-    guid: ebc86b11daa4e674eac0d52875b5be9d
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T32.unity
-    guid: 5437710fd7201634bb5de1ca612554d2
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/Finish_roche.unity
-    guid: e58a0e45a869761439c614abb2662810
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/Inter_roche 1.unity
-    guid: a78e5d3dbec5f6d4e9c91dbd4d2fe075
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/Inter_roche 2.unity
-    guid: e17bf9f456bcab04e953ccfc3864dddd
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 1.unity
-    guid: 2fa8f919e68951041877f6f6a69f46b4
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 2.unity
-    guid: 5721be13ea91c9a489bb808c3571fc40
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 3.unity
-    guid: b56aad0a271de4543ac627a71eeab76f
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 4.unity
-    guid: 3e125d422b3b42148b76ea576e737dbe
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/Inter_roche 12.unity
-    guid: 9958b8da9c477b941a2bd8fef249ba59
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/Inter_roche 22.unity
-    guid: 351b044dbc929f344b28ae197c2875e3
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 1.unity
-    guid: 4c41e1c02d7af18458dd1f63724532ef
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 2.unity
-    guid: fdfaa39d8c2293046bf8bdaf201c1b8d
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 3.unity
-    guid: a67f4fb69ec9cf44592e6656e48e468b
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/Inter_roche 13.unity
-    guid: 528a607d25816904687ad84cbe8c9e03
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/Inter_roche 23.unity
-    guid: 40eb3e77be6577d44a55b8081c4a1827
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 1.unity
-    guid: 35c745b4f8a55ce46acc191c7e6c07ef
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 2.unity
-    guid: 010be2e011f54684baca6afb24d0a782
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 3.unity
-    guid: 4d17002a4de923a4ca7b95a7b0243304
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 4.unity
-    guid: f966cb05a6cf3124ea0eb86c6789c9e2
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 5.unity
-    guid: df690f0feb4144843a28f04d673925b8
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 6.unity
-    guid: c087b17ba1d44d447a18a522218ae311
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 7.unity
-    guid: 4fe5521297c31e4459cf77ba56511340
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 4.unity
-    guid: 5054fbd1220e4b449b08f81ccebb780a
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 5.unity
-    guid: 6f51da5c96316aa469f58eb7c1735e35
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 6.unity
-    guid: 7c3e5d879d4884f4cbef474543c92885
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 7.unity
-    guid: 27093d6aa7145404e905ef74098b934b
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 5.unity
-    guid: fd44bb9b2ebe94c45b37e3a21946269a
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 6.unity
-    guid: d8f29ab7e48213846a9b7cebe0a1bdb0
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 7.unity
-    guid: 3c749fa112f4b0643bad7900875487e8
   - enabled: 1
     path: Assets/eLiveHunt/scene/parametre/Type_Partie Roche205.unity
     guid: e879b0c1fb5ca7e4cbbe419793d4104b
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T33.unity
-    guid: e7a7b7078ef9bb2449c0723d15d49df2
+    path: Assets/eLiveHunt/scene/parametre/Type_Partie temp.unity
+    guid: ed3f08ae387b5c34380724eaf5ec1fef
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T22.unity
-    guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
+    path: Assets/eLiveHunt/scene/parametre/Type_Partie.unity
+    guid: 6abd143aa442bd247ac7f57232b70656
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Text_T23.unity
-    guid: e901e6231a9e5bd40a9824541e309b10
+    path: Assets/eLiveHunt/scene/tuto/tuto_j1.unity
+    guid: 9941e22a61780fa4e8b27851be6792a4
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 1.unity
-    guid: 88eb5865d1eff9340b639a1bf71c9d86
+    path: Assets/eLiveHunt/scene/tuto/tuto_j2.unity
+    guid: 259600f2d9499aa41870a47fdb02b631
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 2.unity
-    guid: 93b3688c89ecf6249908e08476bdc1ad
+    path: Assets/eLiveHunt/scene/tuto/tuto_j3.unity
+    guid: cf7518acef0df8b4bb67fa83afd1d6dc
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 3.unity
-    guid: e15983daae5e01840a32d8e278f5d2de
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 4.unity
-    guid: 72769e1a8b966f94c947920d2b3fd8f3
+    path: Assets/eLiveHunt/scene/Sheraz/Fin.unity
+    guid: 470197c5c4b02454bac085e0bbfd63ff
   - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/Text11.unity
     guid: b238959b6e958c746a769a95198f7a8e
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/Text23.unity
-    guid: e6f10fc0a4cdd6f4aa9cd50f0b8bff2b
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/Text22.unity
-    guid: 68ef9f998ff07ee48aa3ecf2e07384c5
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/Text21.unity
-    guid: 01bf8fce7b3a7c046843a5e63f40d2d9
+    path: Assets/eLiveHunt/scene/Sheraz/Text12.unity
+    guid: 9a0782ed7635b7f4d87d0b3a6fccc8ad
   - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/Text13.unity
     guid: 09a595cf0972a68469a84c8fd6ee2d82
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/Text12.unity
-    guid: 9a0782ed7635b7f4d87d0b3a6fccc8ad
+    path: Assets/eLiveHunt/scene/Sheraz/Text21.unity
+    guid: 01bf8fce7b3a7c046843a5e63f40d2d9
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/Text22.unity
+    guid: 68ef9f998ff07ee48aa3ecf2e07384c5
   - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 1.unity
     guid: 2e3df5a4fe91d4f4c8914984b0e96347
@@ -177,20 +63,11 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 5.unity
     guid: 07a4a4c0fcbdc704687d155f50793a4a
   - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 6.unity
+    guid: d5ff312a17bf7e34d8ff978585735f49
+  - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 1.unity
     guid: c4ccf2e9a6c1cba4b84db30474e64213
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 4.unity
-    guid: 5f233bdc982b40c4eaad0303f00fb09b
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 5.unity
-    guid: fff2bce7ad0c38c459e177fc233c96e7
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 6.unity
-    guid: 70283e9e23079024581ba4edbbcef37a
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 7.unity
-    guid: f24dd1664cabe1841b4444f11457f396
   - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 2.unity
     guid: cdf2a6fcd581fca4ebabb72dc26dd6c3
@@ -204,17 +81,77 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 5.unity
     guid: 11ae33b97e5cf2643b03c0cc8cd99f56
   - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 1.unity
+    guid: cf5704fe31fc4434da880ae0297b4f3d
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 2.unity
+    guid: 3eff8c973b0893848bf5401640be6512
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 3.unity
+    guid: 2150793b5f1596e48b7e29206a83dbe1
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 4.unity
+    guid: 5f233bdc982b40c4eaad0303f00fb09b
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 5.unity
+    guid: fff2bce7ad0c38c459e177fc233c96e7
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 6.unity
+    guid: 70283e9e23079024581ba4edbbcef37a
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 7.unity
+    guid: f24dd1664cabe1841b4444f11457f396
+  - enabled: 1
     path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 6.unity
     guid: c0d38b62631774446bd2d821f6932050
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 7.unity
-    guid: 4faa116ae9a8d664eb3ecd02aa0c97ad
+    path: Assets/eLiveHunt/scene/Templiers/Fin_T.unity
+    guid: a4b36062c6b0bae4aa210617314aa3a5
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 6.unity
-    guid: d5ff312a17bf7e34d8ff978585735f49
+    path: Assets/eLiveHunt/scene/Templiers/Text_T11.unity
+    guid: cd58624224b08884aa03ccaaa7c7bd0a
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 7.unity
-    guid: 54974220cf47a3a46a9e8be0d3668adb
+    path: Assets/eLiveHunt/scene/Templiers/Text_T12.unity
+    guid: 1d765c669235dba419d1cd0c176e7db6
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T13.unity
+    guid: c902f3c9815421241b8661f479db8c9c
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T21.unity
+    guid: 18ff241a64a893e4aa8caf122bb54585
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T22.unity
+    guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T23.unity
+    guid: e901e6231a9e5bd40a9824541e309b10
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T31.unity
+    guid: ebc86b11daa4e674eac0d52875b5be9d
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 1.unity
+    guid: 88eb5865d1eff9340b639a1bf71c9d86
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 2.unity
+    guid: 93b3688c89ecf6249908e08476bdc1ad
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 3.unity
+    guid: e15983daae5e01840a32d8e278f5d2de
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 1.unity
+    guid: cfb87acd0f193234097035effe4b518e
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 2.unity
+    guid: 7abfa4648d29f8342bf0c82299a4e001
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 3.unity
+    guid: 42b866b958ddc1a4ca85dcc878c62e4b
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 4.unity
+    guid: 108a51932f4ffa240bf573338e809581
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 5.unity
+    guid: b46d2ad374406574f8dcda0b4a7fb6da
   - enabled: 1
     path: Assets/eLiveHunt/scene/Templiers/j3/3j_j3_Enigme 1.unity
     guid: 4c518ee22eb4b0d43aa42cd67fe53fcb
@@ -237,80 +174,26 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/Templiers/j3/3j_j3_Enigme 7.unity
     guid: c27a68dc8c6341146a5161eac80c4860
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 1.unity
-    guid: cfb87acd0f193234097035effe4b518e
+    path: Assets/eLiveHunt/scene/Pirates/j1/Finish_Pirate.unity
+    guid: d0c5dda8915495949a0495fe28c6e4d3
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 2.unity
-    guid: 7abfa4648d29f8342bf0c82299a4e001
+    path: Assets/eLiveHunt/scene/Pirates/j1/Inter_Pirate 1.unity
+    guid: b916510e9fec90a4297dc9aafbb1c4b1
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 3.unity
-    guid: 42b866b958ddc1a4ca85dcc878c62e4b
+    path: Assets/eLiveHunt/scene/Pirates/j1/Inter_Pirate 2.unity
+    guid: 7bdbd052e297fe44689844d925e6a4ad
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 4.unity
-    guid: 108a51932f4ffa240bf573338e809581
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 1.unity
+    guid: b0035f964c69ffd4f9d38ae23f66fe7a
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 5.unity
-    guid: b46d2ad374406574f8dcda0b4a7fb6da
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 2.unity
+    guid: a3719333045f57d468977deb0cb3a83e
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 6.unity
-    guid: 094a86ab02aec844cbfd2a46235b8c89
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 3.unity
+    guid: 91c7b6b1dfd0f854886867723c859555
   - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 7.unity
-    guid: f95dd63d081a85b4cbb85492ebd562ee
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 5.unity
-    guid: 8cd4a65f0285fb4419b5ff9203a1359c
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 6.unity
-    guid: 09d418f4e4ec58543a8f9617539148f4
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 7.unity
-    guid: 0f984007901129d4fb0765e9d11a8d80
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 1.unity
-    guid: cf5704fe31fc4434da880ae0297b4f3d
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 2.unity
-    guid: 3eff8c973b0893848bf5401640be6512
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/j3/4j_j3_Enigme 3.unity
-    guid: 2150793b5f1596e48b7e29206a83dbe1
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Sheraz/Fin.unity
-    guid: 470197c5c4b02454bac085e0bbfd63ff
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/Templiers/Fin_T.unity
-    guid: a4b36062c6b0bae4aa210617314aa3a5
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 4.unity
+    guid: 16826fdd8443ef64d8de2b30323bc41b
   - enabled: 1
     path: Assets/eLiveHunt/scene/Pirates/j2/Inter_Pirate 12.unity
     guid: 27ec74a962432da4fa26d99fa6685b50
@@ -339,14 +222,11 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/Pirates/j2/J2_Enigme 7.unity
     guid: d4dcec8668ad46549b37fe94ecc1090e
   - enabled: 1
-    path: Assets/eLiveHunt/scene/tuto/Type_Partie_tuto.unity
-    guid: fcd619b7d2e81104a877be211c72a812
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 5.unity
+    guid: c89cb1505afc1784198e6e048a2d5648
   - enabled: 1
-    path: Assets/eLiveHunt/scene/tuto/tuto_j1.unity
-    guid: 9941e22a61780fa4e8b27851be6792a4
-  - enabled: 1
-    path: Assets/eLiveHunt/scene/tuto/tuto_j3.unity
-    guid: cf7518acef0df8b4bb67fa83afd1d6dc
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 6.unity
+    guid: 19111efef91b2e646b04b748404ffe2b
   - enabled: 1
     path: Assets/eLiveHunt/scene/Pirates/j3/Inter_Pirate 13.unity
     guid: 752062350e3d92144ac50bc06eddbe3f
@@ -375,6 +255,126 @@ EditorBuildSettings:
     path: Assets/eLiveHunt/scene/Pirates/j3/J3_Enigme 7.unity
     guid: 8dd8ccba810841642b95055bc2ce6e09
   - enabled: 1
-    path: Assets/eLiveHunt/scene/tuto/tuto_j2.unity
-    guid: 259600f2d9499aa41870a47fdb02b631
+    path: Assets/eLiveHunt/scene/Roche205/j1/Inter_roche 1.unity
+    guid: a78e5d3dbec5f6d4e9c91dbd4d2fe075
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/Inter_roche 2.unity
+    guid: e17bf9f456bcab04e953ccfc3864dddd
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 1.unity
+    guid: 2fa8f919e68951041877f6f6a69f46b4
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 2.unity
+    guid: 5721be13ea91c9a489bb808c3571fc40
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 3.unity
+    guid: b56aad0a271de4543ac627a71eeab76f
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 4.unity
+    guid: 3e125d422b3b42148b76ea576e737dbe
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 5.unity
+    guid: fd44bb9b2ebe94c45b37e3a21946269a
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/Inter_roche 12.unity
+    guid: 9958b8da9c477b941a2bd8fef249ba59
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/Inter_roche 22.unity
+    guid: 351b044dbc929f344b28ae197c2875e3
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 1.unity
+    guid: 4c41e1c02d7af18458dd1f63724532ef
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 2.unity
+    guid: fdfaa39d8c2293046bf8bdaf201c1b8d
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 3.unity
+    guid: a67f4fb69ec9cf44592e6656e48e468b
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 4.unity
+    guid: 5054fbd1220e4b449b08f81ccebb780a
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 5.unity
+    guid: 6f51da5c96316aa469f58eb7c1735e35
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 6.unity
+    guid: 7c3e5d879d4884f4cbef474543c92885
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j2/J2_Roche 7.unity
+    guid: 27093d6aa7145404e905ef74098b934b
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/Inter_roche 13.unity
+    guid: 528a607d25816904687ad84cbe8c9e03
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/Inter_roche 23.unity
+    guid: 40eb3e77be6577d44a55b8081c4a1827
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 1.unity
+    guid: 35c745b4f8a55ce46acc191c7e6c07ef
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 2.unity
+    guid: 010be2e011f54684baca6afb24d0a782
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 3.unity
+    guid: 4d17002a4de923a4ca7b95a7b0243304
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 4.unity
+    guid: f966cb05a6cf3124ea0eb86c6789c9e2
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 5.unity
+    guid: df690f0feb4144843a28f04d673925b8
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 6.unity
+    guid: c087b17ba1d44d447a18a522218ae311
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j3/J3_Roche 7.unity
+    guid: 4fe5521297c31e4459cf77ba56511340
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 6.unity
+    guid: d8f29ab7e48213846a9b7cebe0a1bdb0
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/j1/J1_Roche 7.unity
+    guid: 3c749fa112f4b0643bad7900875487e8
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Roche205/Finish_roche.unity
+    guid: e58a0e45a869761439c614abb2662810
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Pirates/j1/J1_Enigme 7.unity
+    guid: d89b7fabd6fa8b04da67c827388fd9a8
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 6.unity
+    guid: 094a86ab02aec844cbfd2a46235b8c89
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j2/3j_j2_Enigme 7.unity
+    guid: f95dd63d081a85b4cbb85492ebd562ee
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 4.unity
+    guid: 72769e1a8b966f94c947920d2b3fd8f3
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 5.unity
+    guid: 8cd4a65f0285fb4419b5ff9203a1359c
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 6.unity
+    guid: 09d418f4e4ec58543a8f9617539148f4
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/j1/3j_j1_Enigme 7.unity
+    guid: 0f984007901129d4fb0765e9d11a8d80
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T32.unity
+    guid: 5437710fd7201634bb5de1ca612554d2
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Templiers/Text_T33.unity
+    guid: e7a7b7078ef9bb2449c0723d15d49df2
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j2/4j_j2_Enigme 7.unity
+    guid: 4faa116ae9a8d664eb3ecd02aa0c97ad
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/j1/4j_j1_Enigme 7.unity
+    guid: 54974220cf47a3a46a9e8be0d3668adb
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/Sheraz/Text23.unity
+    guid: e6f10fc0a4cdd6f4aa9cd50f0b8bff2b
+  - enabled: 1
+    path: Assets/eLiveHunt/scene/tuto/Type_Partie_tuto.unity
+    guid: fcd619b7d2e81104a877be211c72a812
   m_configObjects: {}
