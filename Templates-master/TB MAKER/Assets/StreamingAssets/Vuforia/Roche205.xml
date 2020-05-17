@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="targ_Braille" size="20.000000 13.338038" />
+    <ImageTarget name="targ_billet" size="20.000000 9.402284" />
+    <ImageTarget name="targ_zelda" size="20.000000 13.338038" />
+    <ImageTarget name="targ_COBAS" size="20.000000 29.237785" />
+  </Tracking>
+</QCARConfig>

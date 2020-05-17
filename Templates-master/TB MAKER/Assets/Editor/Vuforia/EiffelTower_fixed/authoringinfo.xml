@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="EiffelTower_fixed" targetId="b762038847744716b60e3de591ac59b3" version="11.1" toolVersion="8.6.7" bbox="-0.027330 -0.027332 0.000000 0.027332 0.027330 0.120944" previewImage="b762038847744716b60e3de591ac59b3_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="EiffelTower_fixeds_assembly" assemblyId="58a7462b4f724306a929b41027905869">
+<Part name="EiffelTower_fixed" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00622193 0.0592582 0.141679" rotation="AD: 0.02604869549013778 1.4814829598119905 -1.3549622993848518 181.625" image="EiffelTower_fixed_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

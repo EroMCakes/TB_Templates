@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Target_Braille" size="20.000000 20.000000" />
+    <ImageTarget name="Target_Pyramide" size="20.000000 28.375286" />
+    <ImageTarget name="Target_Agenda" size="20.000000 13.333333" />
+    <ImageTarget name="Target_Directions" size="20.000000 15.183333" />
+    <ImageTarget name="target_Tel" size="20.000000 13.333333" />
+    <ImageTarget name="Target_MPLC" size="20.000000 13.333333" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="Hassan_II_Mosque_90mm" targetId="87efcb13d855430d89a1b12467df184f" version="11.1" toolVersion="8.6.7" bbox="-0.097074 0.000000 0.000000 -0.000000 0.069428 0.060588" previewImage="87efcb13d855430d89a1b12467df184f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Hassan_II_Mosque_90mms_assembly" assemblyId="b928370b575b46fd95b87d653f8431c0">
+<Part name="Hassan_II_Mosque_90mm" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0249233 0.0410577 0.143392" rotation="AD: 0.9987495775981183 -0.30105463516936215 0.21179338657644353 113.142" image="Hassan_II_Mosque_90mm_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Untitled-1" size="52.000000 36.651611" />
+    <ImageTarget name="TargAIR" size="20.000000 44.098362" />
+    <ImageTarget name="TargEAU" size="20.000000 44.098362" />
+    <ImageTarget name="targ_planetes" size="20.000000 18.901960" />
+    <ImageTarget name="targ_zelda" size="20.000000 18.901960" />
+    <ImageTarget name="targarbredonjon" size="20.000000 17.031801" />
+    <ImageTarget name="targ_plan" size="20.000000 11.627907" />
+    <ImageTarget name="target_Sceau" size="20.000000 11.627907" />
+  </Tracking>
+</QCARConfig>

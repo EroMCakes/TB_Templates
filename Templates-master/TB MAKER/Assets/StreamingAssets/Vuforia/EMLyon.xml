@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Stratagie" size="20.000000 14.096774" />
+    <ImageTarget name="Pyramides" size="20.000000 14.096774" />
+    <ImageTarget name="Map_Orange" size="20.000000 14.096774" />
+    <ImageTarget name="koutoubia" size="20.000000 14.096774" />
+    <ImageTarget name="Enseigneument" size="20.000000 14.096774" />
+    <ImageTarget name="ENLyon" size="20.000000 14.096774" />
+    <ImageTarget name="Dijital" size="20.000000 14.096774" />
+    <ImageTarget name="Cle" size="20.000000 14.096774" />
+    <ImageTarget name="Calque3" size="20.000000 14.096774" />
+    <ImageTarget name="Calque2" size="20.000000 14.096774" />
+    <ImageTarget name="Calque1" size="20.000000 14.096774" />
+    <ImageTarget name="Bechelor" size="20.000000 14.096774" />
+    <ImageTarget name="Afrique" size="20.000000 14.096774" />
+    <ImageTarget name="TargetH2" size="20.000000 14.187643" />
+    <ImageTarget name="TargetPerle" size="20.000000 14.187643" />
+    <ImageTarget name="targetEiffel" size="20.000000 14.187643" />
+    <ImageTarget name="Mplc" size="20.000000 20.515179" />
+  </Tracking>
+</QCARConfig>
