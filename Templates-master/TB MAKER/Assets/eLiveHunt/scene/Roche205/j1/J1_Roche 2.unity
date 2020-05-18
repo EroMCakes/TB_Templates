@@ -643,6 +643,7 @@ GameObject:
   - component: {fileID: 510390967}
   - component: {fileID: 510390966}
   - component: {fileID: 510390968}
+  - component: {fileID: 510390969}
   m_Layer: 0
   m_Name: Script_Holder
   m_TagString: Untagged
@@ -695,6 +696,29 @@ MonoBehaviour:
   txt: {fileID: 1911346917}
   To_Load1: 
   To_Load2: Inter_roche 1
+  To_Load3: 
+  To_Load4: 
+  To_Load5: 
+  To_Load6: 
+  To_Load7: 
+  Aff_alpha: {fileID: 0}
+--- !u!114 &510390969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510390965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085540b9ef5fd2f4c9bca299a44ad4d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Pass: {fileID: 0}
+  code: 
+  txt: {fileID: 0}
+  To_Load1: 
+  To_Load2: 
   To_Load3: 
   To_Load4: 
   To_Load5: 

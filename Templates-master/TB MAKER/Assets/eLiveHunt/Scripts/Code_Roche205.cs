@@ -51,7 +51,7 @@ public class Code_Roche205 : MonoBehaviour
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load5);
             }
-            else if (code == "3589")
+            else if (code == "5632")
             {
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load7);

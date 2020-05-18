@@ -657,7 +657,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 468262488}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -0.073, y: 0.01, z: -0.011}
+  m_LocalPosition: {x: 0.309, y: 0.01, z: 0.045}
   m_LocalScale: {x: 0.08266332, y: 0.099988624, z: 1}
   m_Children:
   - {fileID: 1737298820}
@@ -798,6 +798,34 @@ MonoBehaviour:
   To_Load6: 
   To_Load7: 
   Aff_alpha: {fileID: 0}
+--- !u!21 &986471252
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'targ_BrailleMaterial
+
+    37548'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f78507ee7e594fac8b1f84354afb86ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &998879316
 GameObject:
   m_ObjectHideFlags: 0
@@ -1023,7 +1051,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 510390969}
         m_MethodName: Enter_Push
         m_Mode: 1
         m_Arguments:
@@ -1533,34 +1561,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!21 &1783398081
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'targ_BrailleMaterial
-
-    17718'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: f78507ee7e594fac8b1f84354afb86ab, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1876657324
 GameObject:
   m_ObjectHideFlags: 0
@@ -1762,7 +1762,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1783398081}
+  - {fileID: 986471252}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1825,8 +1825,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Roche205.xml
   mAspectRatio: 0.66690195
   mImageTargetType: 0
-  mWidth: 603.14655
-  mHeight: 402.2396
+  mWidth: 486.6169
+  mHeight: 324.52576
 --- !u!4 &2003000809
 Transform:
   m_ObjectHideFlags: 0
@@ -1835,8 +1835,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2003000803}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 477.11, y: 0, z: 0}
-  m_LocalScale: {x: 603.14655, y: 603.14655, z: 603.14655}
+  m_LocalPosition: {x: 454.6, y: 0, z: 0}
+  m_LocalScale: {x: 486.6169, y: 486.6169, z: 486.6169}
   m_Children:
   - {fileID: 468262489}
   m_Father: {fileID: 0}

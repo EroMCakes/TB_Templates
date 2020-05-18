@@ -699,7 +699,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Bienvue sur sLiveHunt! \nChoisissez votre d\xE9fi pour commencer:"
+  m_Text: "Bienvue sur eLiveHunt! \nChoisissez votre d\xE9fi pour commencer:"
 --- !u!222 &688594055
 CanvasRenderer:
   m_ObjectHideFlags: 0
