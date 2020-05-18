@@ -1867,34 +1867,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!21 &1029049019
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'targ_billetMaterial
-
-    27914'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 40034185ed0c485bae46a82de0c8d7cb, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1045659000
 GameObject:
   m_ObjectHideFlags: 0
@@ -1972,6 +1944,34 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1045659000}
   m_CullTransparentMesh: 0
+--- !u!21 &1140869102
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'targ_billetMaterial
+
+    21664'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 40034185ed0c485bae46a82de0c8d7cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1176877633
 GameObject:
   m_ObjectHideFlags: 0
@@ -2310,7 +2310,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1409011710}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0.209, y: 0.1, z: 0.001}
+  m_LocalPosition: {x: 0.141, y: 0.1, z: -0.076}
   m_LocalScale: {x: 0.0282318, y: 0.039383896, z: 0.0007510382}
   m_Children: []
   m_Father: {fileID: 1453342012}
@@ -2413,7 +2413,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1029049019}
+  - {fileID: 1140869102}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2476,8 +2476,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Roche205.xml
   mAspectRatio: 0.47011417
   mImageTargetType: 0
-  mWidth: 1331.4902
-  mHeight: 625.95245
+  mWidth: 325.2964
+  mHeight: 152.92644
 --- !u!4 &1453342012
 Transform:
   m_ObjectHideFlags: 0
@@ -2486,8 +2486,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1453342006}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.0765, y: 0, z: 0}
-  m_LocalScale: {x: 1331.4902, y: 1331.4902, z: 1331.4902}
+  m_LocalPosition: {x: 25.11, y: 0, z: 0}
+  m_LocalScale: {x: 325.2964, y: 325.2964, z: 325.2964}
   m_Children:
   - {fileID: 208305670}
   - {fileID: 1409011711}
